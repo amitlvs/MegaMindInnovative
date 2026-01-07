@@ -142,7 +142,7 @@ body {
     min-height: 100vh;
     display: flex;
     align-items: center;
-    background: url('./images/school-building.png') center/cover no-repeat;
+    background: url('./school-building.png') center/cover no-repeat;
     position: relative;
     color: white;
     padding: 0 20px;
